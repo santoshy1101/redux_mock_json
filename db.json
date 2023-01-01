@@ -1,0 +1,194 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://media.gettyimages.com/id/183890264/photo/upright-red-book-with-clipping-path.jpg?s=612x612&w=gi&k=20&c=S_G3qpfLXEF-_xuY7p2BH__jxqaUN_9IiP6CiSgD7Xk=",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2019,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://media.gettyimages.com/id/183890264/photo/upright-red-book-with-clipping-path.jpg?s=612x612&w=gi&k=20&c=S_G3qpfLXEF-_xuY7p2BH__jxqaUN_9IiP6CiSgD7Xk=",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2020,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://media.gettyimages.com/id/183890264/photo/upright-red-book-with-clipping-path.jpg?s=612x612&w=gi&k=20&c=S_G3qpfLXEF-_xuY7p2BH__jxqaUN_9IiP6CiSgD7Xk=",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2021,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://media.gettyimages.com/id/183890264/photo/upright-red-book-with-clipping-path.jpg?s=612x612&w=gi&k=20&c=S_G3qpfLXEF-_xuY7p2BH__jxqaUN_9IiP6CiSgD7Xk=",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2022,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://img.freepik.com/premium-photo/education-concept-growth-knowledge-is-represented-by-pictures-trees-books_488220-17316.jpg?size=626&ext=jpg&ga=GA1.2.317204435.1669235775",
+      "book_name": "For Development",
+      "category": "Thriller",
+      "release_year": 2018,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://img.freepik.com/premium-photo/tree-knowledge_505080-578.jpg?size=338&ext=jpg&ga=GA1.2.317204435.1669235775",
+      "book_name": " Backend Development",
+      "category": "Thriller",
+      "release_year": 2017,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://img.freepik.com/free-photo/open-book-wooden-table_1204-363.jpg?size=338&ext=jpg&ga=GA1.2.317204435.1669235775",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2016,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://img.freepik.com/free-photo/old-book-open-dark-wood-background_1373-581.jpg?size=626&ext=jpg&ga=GA1.2.317204435.1669235775",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2015,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "book_name": " Web Development",
+      "category": "Motivational",
+      "release_year": 2014,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://media.istockphoto.com/id/1368435009/photo/book-with-chain-and-padlock-information-security.jpg?b=1&s=170667a&w=0&k=20&c=Reiq_ypr_szy0b3BKucWOz6MA4A1gVwiSrkqY1TMGJE=",
+      "book_name": "Full-Stack Web Development",
+      "category": "Motivational",
+      "release_year": 2013,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    }
+  ]
+}
